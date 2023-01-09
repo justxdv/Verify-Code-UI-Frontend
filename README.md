@@ -1,1 +1,2 @@
-# html-css-js-project-boilerplate
+# Verify Code UI
+Frontend using HTML, CSS &Javascript
